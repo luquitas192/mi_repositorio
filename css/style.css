@@ -43,7 +43,7 @@ ul li:hover ul {
 }*/
 
 h1 {
-    color: #007bff;
+    color: #00ff88;
 }
 
 h2 {
@@ -59,7 +59,7 @@ footer {
 }
 
 #ventas {
-    background: #4da3ff;
+    background: #00ff88;
 }
 
 #imageSize {
@@ -72,13 +72,13 @@ footer {
 }
 
 #backgroundCeleste {
-    background-color: #007bff;
+    background-color: #00ff88;
     color: white;
     padding: 50px;
 }
 
 #backgroundBlanco {
-    color: #007bff;
+    color: #00ff88;
     padding: 50px;
 }
 
